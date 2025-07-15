@@ -1,0 +1,1 @@
+# Privacy Policy - Astro App
